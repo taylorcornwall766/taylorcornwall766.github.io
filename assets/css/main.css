@@ -4004,3 +4004,13 @@ input, select, textarea {
 	.project-div{
 		margin: 0 auto;
 	}
+	.profile-picture{
+		height: 310px;
+		width: 310px;
+		border-radius: 50%;
+		display: flex;
+		margin: 20px auto;
+	}
+	.px{
+		font-size: 50px;
+	}
