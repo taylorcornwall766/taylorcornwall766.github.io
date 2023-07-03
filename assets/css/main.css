@@ -4014,3 +4014,6 @@ input, select, textarea {
 	.px{
 		font-size: 50px;
 	}
+	.li-px > i{
+		font-size: 50px;
+	}
